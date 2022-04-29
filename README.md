@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repc
-desafio de projeto sobre git/github
+# repositorio de desafio de projeto sobre GIT/GITHUB da Dio
+repositorio criado para desafio do projeto.
